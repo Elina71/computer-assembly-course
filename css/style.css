@@ -1,0 +1,1409 @@
+a {
+        text-decoration: none;
+        color: #fff;
+}
+
+h2 {
+        margin: 0;
+}
+
+ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+}
+
+body {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        background-color: #000;
+}
+
+.header {
+        max-width: 1400px;
+        background-color: #121212;
+        font-size: 10px;
+        line-height: 15px;
+        padding: 25px 20px 15px;
+}
+
+.container {
+        color: #fff;
+        max-width: 1200px;
+        margin: 0 50px;
+        padding: 0;
+}
+
+nav{
+        display: flex;
+        justify-content: space-between;
+}
+
+.menu {
+        width: 470px;
+        display: flex;
+        padding: 0;
+}
+
+.logo {
+        width: 25px;
+        height: 25px;
+}
+
+.img {
+        width: 25px;
+        height: 25px;
+}
+
+.menu-item {
+        padding-right: 40px;
+}
+
+.go {
+        text-align: center;
+        line-height: 25px;
+        width: 114px;
+        height: 25px;
+        margin: auto 0;
+        background: linear-gradient(to right, #C89AFC, #7C6AFA);
+        border-radius: 50px;
+}
+
+.headline {
+        background: url('../images/fon.jpg') no-repeat;
+        background-size: auto 1200px;
+        background-size: 100%;
+        display: flex;
+}
+
+h1 {
+        width: 464px;
+        margin: 108px 0 501px 195px;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 56px;
+}
+
+.students {
+        display: flex;
+        background-color: #121212;
+        height: 90px;
+}
+
+.cours {
+        margin: 26px 50px 26px 195px;
+        background: linear-gradient(to right, #DF5950, #451046);
+        width: 115px;
+        height: 27px;
+        font-weight: 700;
+        font-size: 10px;
+        text-align: center;
+        line-height: 15px;
+        padding: 9px 18px 0;
+        border-radius: 31px;
+}
+
+.total {
+        opacity: 0.4;
+        margin: 22px 62px 22px 0;
+        font-size: 10px;
+        line-height: 15px;
+}
+
+.total1 {
+        margin-bottom: 6px;
+}
+
+.number {
+        font-weight: 700;
+        font-size: 10px;
+        line-height: 15px;
+        margin: 22px 50px 22px 0;
+}
+
+.number1 {
+        margin-bottom: 6px;
+}
+
+.border-number {
+        display: flex;
+}
+
+.border-number1 {
+        opacity: 0.4;
+        margin-right: 18px;
+}
+
+.border {
+        margin-top: 22px;
+        font-size: 10px;
+        line-height: 15px;
+}
+
+.line {
+        border: none;
+        width: 275px;
+        background: linear-gradient(to right, #DF5950, #451046);
+}
+
+.line1 {
+        border: none;
+        width: 150px;
+        background: #fff;
+}
+
+.number3 {
+        display: flex;
+        opacity: 0.4;
+        margin-top: 3px;
+}
+
+.number4 {
+        padding-right: 372px;
+}
+
+.activity-block {
+        display: flex;
+}
+
+.activity-img {
+        width: 328px;
+        height: 338px;
+        margin: 125px 86px 125px 195px;
+}
+
+.activity {
+        background-color: #000000;
+}
+
+.activity-title {
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 42px;
+        width: 314px;
+        margin-bottom: 28px;
+}
+
+.activity-description1 {
+        width: 397px;
+        font-size: 10px;
+        line-height: 16px;
+}
+
+.activity-description {
+        margin: 168px 0 254px 0;
+
+}
+
+.dynamics {
+        background-color: #000;
+}
+
+.dynamics-icon-title {
+        display: flex;
+}
+
+.dynamics-icon {
+        margin: 0 12px 32px 202px;
+        width: 59px;
+        height: 59px;
+}
+
+.dynamics-title {
+        margin-top: 19px;
+        color: #fff;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 42px;
+}
+
+.dynamics-p {
+        margin: 0 0 50px 198px;
+        opacity: 50%;
+        font-size: 10px;
+        line-height: 16px;
+        width: 256px;
+}
+
+.dynamics-ul {
+        display: flex;
+        margin-left: 195px;
+}
+
+.dynamics-item1 {
+        width: 56px;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 31px;
+}
+
+.dynamics-item4 {
+        background: linear-gradient(to right, #C89AFC, #7C6AFA);
+        background-size: 202px;
+        margin: 12px 0 21px;
+}
+
+.dynamics-item5 {
+        background: linear-gradient(to right, #7C6AFA, #C89AFC);
+        background-size: 202px;
+        margin: 24px 0 34px;
+}
+
+.dynamics-item6 {
+        background: linear-gradient(to right, #C89AFC, #7C6AFA);
+        background-size: 202px;
+        margin: 33px 0 44px;
+}
+
+.dynamics-item7 {
+        background: linear-gradient(to right, #7C6AFA, #C89AFC);
+        background-size: 202px;
+        height: 6px;
+        margin: 41px 0 52px;
+}
+
+.dynamics-item3 {
+        font-size: 8px;
+        line-height: 14px;
+        width: 191px;
+        opacity: 50%;
+        margin-bottom: 124px;
+}
+
+.diagram1 {
+        margin-top: 12px;
+        height: 50px;
+        padding: 0;
+        border: none;
+}
+
+.diagram2 {
+        height: 37px;
+        padding: 0;
+        border: none;
+}
+
+.diagram3 {
+        height: 18px;
+        padding: 0;
+        border: none;
+}
+
+.diagram4 {
+        height: 6px;
+        padding: 0;
+        border: none;
+}
+
+.profession {
+        background-color: #000;
+}
+
+.profession-title {
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 42px;
+        text-align: center;
+        margin-bottom: 74px;
+}
+
+.profession-icon {
+        display: flex;
+        width: 100%;
+        position: relative;
+}
+
+.icon-img1 {
+        margin-left: 303px;
+        width: 50px;
+        height: 50px;
+        margin-bottom: 37px;
+}
+
+.icon-img2, .icon-img3 {
+        margin-left: 146px;
+        width: 50px;
+        height: 50px;
+        margin-bottom: 37px;
+}
+
+.icon2 {
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 21px;
+        text-align: center;
+        margin-bottom: 19px;
+}
+
+#profession-title1 {
+        margin-left: 222px;
+        width: 200px;
+}
+
+#profession-title2 {
+        width: 218px;
+        margin-left: 61px;
+}
+
+#profession-title3 {
+        width: 200px;
+        margin-left: 71px;
+}
+
+.icon3 {
+        font-size: 10px;
+        line-height: 16px;
+        width: 223px;
+        text-align: center;
+        opacity: 80%;
+        margin-bottom: 145px;
+}
+
+#icon-list1 {
+        margin-left: 213px;
+}
+
+#icon-list2, #icon-list3 {
+        margin-left: 61px;
+}
+
+.partners {
+        background-color: #000;
+        height: auto;
+}
+
+.img-title {
+        display: flex;
+}
+
+.img-partners {
+        width: 59px;
+        margin: 0 32px 37px 183px;
+}
+
+.title-partners {
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 42px;
+}
+
+.logo-partners {
+        text-align: center;
+        margin-bottom: 123px;
+}
+
+.program {
+        background-color: #000;
+}
+
+.timetable {
+        display: flex;
+}
+
+.icon-program {
+        width: 59px;
+        height: 59px;
+        margin: 0 0 19px 575px;
+}
+
+.title-program {
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 42px;
+        margin-left: 438px;
+        margin-bottom: 18px;
+}
+
+.text-program {
+        font-size: 10px;
+        line-height: 16px;
+        width: 256px;
+        text-align: center;
+        margin: 0 471px 50px 471px;
+        opacity: 50%;
+}
+
+.timetable-description1 {
+        font-size: 8px;
+        line-height: 14px;
+        opacity: 50%;
+        margin-bottom: 9px;
+}
+
+.timetable-description2 {
+        font-size: 11px;
+        line-height: 18px;
+        width: 142px;
+        margin-bottom: 54px;
+}
+
+.img-timeline {
+        margin-left: 37px;
+        margin-bottom: 107px;
+}
+
+.timetable-list-div {
+        margin-left: 418px;
+        margin-top: 16px;
+}
+
+.timetable-list2-div {
+        margin-left: 47px;
+        margin-top: 71px;
+}
+
+.teacher {
+        background-color: #000;
+}
+
+.teacher-icon-title {
+        display: flex;
+}
+
+.teacher-foto {
+        display: flex;
+        margin-left: 180px;
+}
+
+.teacher-icon {
+        transform: rotate(180deg);
+        width: 59px;
+        height: 59px;
+        margin: 0 10px 65px 180px;
+}
+
+.teacher-title {
+        font-weight: 700;
+        width: 305px;
+        line-height: 42px;
+        font-size: 30px;
+        margin: 37px 0 70px 0;
+}
+
+.teacher1-div, .teacher2-div, .teacher3-div {
+        width: 280px;
+        text-align: center;
+}
+
+.characteristic1 {
+        width: 118px;
+        height: 118px;
+        margin: 0 auto 25px;
+}
+
+.teacher-characteristic2, .teacher-characteristic3 {
+        margin-left: 15px;
+}
+
+.characteristic2 {
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 21px;
+        margin-bottom: 9px;
+}
+
+.characteristic3 {
+        font-size: 10px;
+        line-height: 16px;
+        opacity: 80%;
+        margin-bottom: 19px;
+
+}
+
+.characteristic4 {
+        height: 27px;
+        margin: 0 auto;
+        margin-bottom: 125px;
+
+}
+
+.biography {
+        font-size: 10px;
+        line-height: 15px;
+        width: 52px;
+        height: 15px;
+}
+
+.button-biography {
+        padding-bottom: 8px;
+        height: 27px;
+        border-color: #fff;
+        border-width: 1px;
+        width: 89px;
+        border-radius: 31px;
+        background-color: transparent;
+}
+
+.subscription {
+        background-color: #000;
+        height: 200px;
+}
+
+.subscription-all {
+        text-align: center;
+}
+
+.subscription-title {
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 42px;
+        margin-bottom: 18px;
+}
+
+.subscription-info {
+        font-size: 10px;
+        line-height: 16px;
+        opacity: 50%;
+        width: 256px;
+        margin-left: 471px;
+        margin-bottom: 38px;
+}
+
+.subscription-input-button {
+        display: flex;
+        margin-bottom: 25px;
+        width: 300px;
+        margin: 0 auto 25px;
+        position: relative;
+}
+
+.e-mail {
+        width: 307px;
+        height: 27px;
+        border-radius: 30px;
+        border: none;
+        padding-left: 18px;
+        font-size: 8px;
+        line-height: 14px;
+        background-color: rgb(43, 43, 43);
+}
+
+input.e-mail::placeholder {
+        color: #fff;
+}
+
+.Subscribe {
+        width: 99px;
+        font-weight: 700;
+        font-size: 10px;
+        line-height: 15px;
+        color: #fff;
+        background: linear-gradient(to right, #DF5950, #451046);
+        border: none;
+        border-radius: 30px;
+        height: 27px;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        padding: 6px 19px;
+}
+
+.footer {
+        background-color: #000;
+}
+
+.social {
+        display: flex;
+}
+
+.ellipse, .ellipse2, .ellipse3, .ellipse4 {
+        display: block;
+        position: relative;
+        width: 31px;
+        height: 31px;
+}
+
+.ellipse, .vk {
+        left: 509px;
+}
+
+.ellipse2, .youtube {
+        left: 526px;
+}
+
+.ellipse3, .facebook {
+        left: 544px;
+}
+
+.ellipse4, .instagram {
+        left: 562px;
+}
+
+.vk, .youtube, .facebook, .instagram {
+        position: relative;
+        width: 15px;
+        height: 15px;
+        padding: 8px;
+        top: -31px;
+}
+
+.menu-btn {
+        display: none;
+}
+
+@media (max-width: 1200px) {
+        .headline {
+                max-width: 100%;
+        }
+
+        .activity {
+                max-width: 100%;
+        }
+
+        .activity-img {
+                margin-left: 0;
+        }
+
+        .dynamics-icon {
+                margin-left: 0;
+        }
+
+        .dynamics-p {
+                margin-left: 0;
+        }
+
+        .dynamics-ul {
+                margin-left: 0;
+        }
+
+        .profession-icon {
+                flex-direction: row;
+                justify-content: center;
+        }
+
+        .icon-img1 {
+                margin-left: 145px;
+        }
+
+        #profession-title1 {
+                margin-left: 66px;
+        }
+
+        #icon-list1 {
+                margin-left: 58px;
+        }
+
+        .timetable {
+                justify-content: flex-start;
+        }
+
+        .teacher-foto {
+                margin-left: 168px;
+        }
+
+        .subscription-info {
+                margin-left: 408px;
+        }
+
+        .social {
+                max-width: 1200px;
+        }
+
+        .ellipse, .vk {
+                left: 437px;
+        }
+
+        .ellipse2, .youtube {
+                left: 453px;
+        }
+
+        .ellipse3, .facebook {
+                left: 469px;
+        }
+
+        .ellipse4, .instagram {
+                left: 486px;
+        }
+
+}
+
+@media (max-width: 1185px) {
+        .cours {
+                margin-left: 100px;
+        }
+
+        .title {
+                width: 309px;
+        }
+}
+
+@media (max-width: 1095px) {
+        .cours {
+                margin-left: 47px;
+        }
+
+        .icon-program {
+                margin-left: 469px;
+        }
+
+        .title-program {
+                margin-left: 332px;
+        }
+
+        .text-program {
+                margin-left: 365px;
+        }
+
+        .timetable-list-div {
+                margin-left: 312px;
+        }
+
+        .subscription-info {
+                margin-left: 362px;
+        }
+
+        .ellipse, .vk {
+                left: 380px;
+        }
+
+        .ellipse2, .youtube {
+                left: 395px;
+        }
+
+        .ellipse3, .facebook {
+                left: 410px;
+        }
+
+        .ellipse4, .instagram {
+                left: 425px;
+        }
+}
+
+@media (max-width: 1045px) {
+        .cours {
+                margin-left: -15px;
+        }
+
+        .teacher-foto {
+                margin-left: 52px;
+        }
+}
+
+@media (max-width: 1030px) {
+        .title {
+                margin-left: 80px;
+                font-size: 35px;
+                line-height: 46px;
+                margin-bottom: 310px;
+        }
+}
+
+@media (max-width: 980px) {
+        .line {
+                width: 225px;
+        }
+
+        .line1 {
+                width: 113px;
+        }
+
+        .number4 {
+                padding-right: 284px;
+        }
+
+        .subscription-info {
+                margin-left: 302px;
+        }
+
+        .ellipse, .vk {
+                left: 305px;
+        }
+
+        .ellipse2, .youtube {
+                left: 320px;
+        }
+
+        .ellipse3, .facebook {
+                left: 335px;
+        }
+
+        .ellipse4, .instagram {
+                left: 350px;
+        }
+}
+
+@media (max-width: 900px) {
+        .title {
+                margin-bottom: 203px;
+        }
+
+        .icon-img1 {
+                margin-left: 83px;
+        }
+
+        #profession-title1 {
+                margin-left: 0;
+        }
+
+        #icon-list1 {
+                margin-left: 0;
+        }
+
+        .icon-program {
+                margin-left: 366px;
+        }
+
+        .title-program {
+                margin-left: 229px;
+        }
+
+        .text-program {
+                margin-left: 262px;
+        }
+
+        .timetable-list-div {
+                margin-left: 209px;
+        }
+}
+
+@media (max-width: 876px) {
+        .title {
+                margin-left: 30px;
+                font-size: 27px;
+                line-height: 41px;
+        }
+
+        .cours {
+                padding: 0;
+                line-height: 24px;
+        }
+
+        .total {
+                margin-left: -10px;
+                margin-right: 13px;
+        }
+
+        .activity-description {
+                margin-bottom: 0;
+        }
+
+        .activity-description1 {
+                width: auto;
+        }
+
+        .activity-title {
+                width: auto;
+        }
+
+        .logo-partners1 {
+                max-width: 100%;
+        }
+
+        .img-partners {
+                margin-left: 0;
+        }
+
+        .teacher-foto {
+                margin-left: 0;
+        }
+}
+
+@media (max-width: 820px) {
+        .header {
+                max-width: 800px;
+        }
+
+        .menu-btn {
+                display: inline-block;
+                width: 40px;
+                height: 40px;
+                background-color: transparent;
+                border: none;
+                cursor: pointer;
+                position: relative;
+                z-index: 50;
+        }
+
+        .logo, .go {
+                z-index: 50;
+                position: relative;
+        }
+
+        .btn-line {
+                position: absolute;
+                left: 0;
+                width: 100%;
+                background-color: #DF5950;
+                height: 2px;
+                transition: .3s ease;
+        }
+
+        .btn-line:nth-child(1) {
+                top: 0;
+        }
+        .btn-line:nth-child(2) {
+                top: 15px;
+        }
+        .btn-line:nth-child(3) {
+                top: 15px;
+        }
+        .btn-line:nth-child(4) {
+                top: 30px;
+        }
+
+        .menu-open {
+                width: 100%;
+        }
+
+        .menu-open .btn-line:nth-child(1) {
+                transform: scaleX(0);
+        }
+        .menu-open .btn-line:nth-child(2) {
+                transform: rotate(45deg);
+                background-color: #451046;
+        }
+        .menu-open .btn-line:nth-child(3) {
+                transform: rotate(-45deg);
+                background-color: #451046;
+        }
+        .menu-open .btn-line:nth-child(4) {
+                transform: scaleX(0);
+        }
+
+        .menu {
+                position: absolute;
+                left: 0;
+                top: 0;
+                bottom: 0;
+                right: 0;
+                background-color: #0a0a0a;
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                transform: translateY(-100%);
+                transition: .3s ease;
+                z-index: 45;
+        }
+
+        .menu-open .menu {
+                transform: translateY(0%);
+        }
+
+        .menu-item {
+                padding: 30px 0;
+                font-size: 30px;
+        }
+
+        .menu-link {
+                background: linear-gradient(to right, #DF5950, #451046);
+                border-radius: 40px;
+                padding: 0 20px;
+        }
+
+        .dynamics-item3 {
+                width: 140px;
+        }
+
+        .profession-icon {
+                flex-wrap: wrap;
+                justify-content: center;
+        }
+
+        .icon3 {
+                margin-bottom: 66px;
+        }
+
+        .subscription-info {
+                margin-left: 233px;
+        }
+
+        .ellipse, .vk {
+                left: 225px;
+        }
+
+        .ellipse2, .youtube {
+                left: 240px;
+        }
+
+        .ellipse3, .facebook {
+                left: 255px;
+        }
+
+        .ellipse4, .instagram {
+                left: 270px;
+        }
+}
+
+@media (max-width: 781px) {
+        .number {
+                margin-right: 27px;
+        }
+}
+
+@media (max-width: 765px) {
+        .title {
+                margin-left: 17px;
+                margin-top: 54px;
+        }
+
+        .line {
+                width: 153px;
+        }
+
+        .line1 {
+                width: 73px;
+        }
+
+        .number4 {
+                padding-right: 169px;
+        }
+
+        .icon-program {
+                margin-left: 255px;
+        }
+
+        .title-program {
+                margin-left: 118px;
+        }
+
+        .text-program {
+                margin-left: 141px;
+        }
+
+        .timetable-list-div {
+                margin-left: 98px;
+        }
+
+        .subscription-info {
+                margin-left: 186px;
+        }
+}
+
+@media (max-width: 750px) {
+        .title {
+                width: 270px;
+        }
+
+        .activity-block {
+                flex-wrap: wrap;
+                justify-content: flex-end;
+        }
+
+        .activity-img {
+                margin-bottom: 0;
+                margin-top: 30px;
+        }
+
+        .activity-description {
+                margin-top: 45px;
+                margin-bottom: 129px;
+        }
+
+        .teacher-icon {
+                margin-left: 0;
+        }
+}
+
+@media (max-width: 647px) {
+        .students {
+                flex-wrap: wrap;
+                height: auto;
+                justify-content: center;
+        }
+
+        .number3 {
+                margin-bottom: 15px;
+        }
+
+        .img-partners {
+                width: 35px;
+        }
+
+        .subscription-info {
+                margin-left: 109px;
+        }
+
+        .ellipse, .vk {
+                left: 135px;
+        }
+
+        .ellipse2, .youtube {
+                left: 150px;
+        }
+
+        .ellipse3, .facebook {
+                left: 165px;
+        }
+
+        .ellipse4, .instagram {
+                left: 180px;
+        }
+}
+
+@media (max-width: 640px) {
+        .title {
+                margin-left: -10px;
+                margin-bottom: 143px;
+        }
+
+        .dynamics-ul {
+                flex-wrap: wrap;
+        }
+
+        .dynamics-item3 {
+                margin-bottom: 10px;
+        }
+
+        #it3 {
+                margin-bottom: 110px;
+        }
+}
+
+@media (max-width: 606px) {
+        .icon-img1 {
+                margin-left: 146px;
+        }
+
+        #profession-title1 {
+                margin-left: 70px;
+        }
+
+        #icon-list1 {
+                margin-left: 61px;
+        }
+
+        .profession-title {
+                margin-bottom: 45px;
+        }
+
+        .title-partners {
+                font-size: 25px;
+        }
+}
+
+@media (max-width: 606px) {
+        .icon-program {
+                margin-left: 152px;
+        }
+
+        .title-program {
+                margin-left: 14px;
+        }
+
+        .text-program {
+                margin-left: 40px;
+        }
+
+        .timetable-list-div {
+                margin-left: 0;
+        }
+}
+
+@media (max-width: 520px) {
+        .title {
+                margin-bottom: 84px;
+        }
+
+        .activity-img {
+                width: auto;
+                height: 200px;
+        }
+
+        .img-comp {
+                width: 195px;
+        }
+
+        .activity-title {
+                font-size: 21px;
+        }
+
+        .title-partners {
+                margin-bottom: 25px;
+        }
+
+        .teacher-title {
+                font-size: 25px;
+        }
+
+        .subscription-info {
+                margin-left: 48px;
+        }
+}
+
+@media (max-width: 460px) {
+        .title {
+                width: 200px;
+                font-size: 21px;
+                line-height: 26px;
+        }
+
+        .profession-title {
+                font-size: 25px;
+        }
+
+        .teacher-foto {
+                flex-wrap: wrap;
+        }
+
+        .characteristic4 {
+                margin-bottom: 40px;
+        }
+
+        .ellipse, .vk {
+                left: 35px;
+        }
+
+        .ellipse2, .youtube {
+                left: 50px;
+        }
+
+        .ellipse3, .facebook {
+                left: 65px;
+        }
+
+        .ellipse4, .instagram {
+                left: 80px;
+        }
+
+        .subscription-title {
+                font-size: 17px;
+        }
+}
+
+@media (max-width: 420px) {
+        .img-timeline {
+                margin-left: 16px;
+        }
+
+        .timetable-list2-div {
+                margin-left: 21px;
+        }
+
+        .header {
+                padding: 15px 0;
+        }
+
+        .logo, .go {
+                position: relative;
+        }
+
+        .logo {
+                left: -30px;
+        }
+
+        .go {
+                right: -35px;
+        }
+}
+
+@media (max-width: 400px) {
+        .dynamics-icon {
+                width: 37px;
+                margin-bottom: 13px;
+        }
+
+        .dynamics-title {
+                font-size: 21px;
+        }
+
+        .dynamics-p {
+                width: auto;
+                margin-bottom: 39px;
+        }
+
+        .dynamics-item5, .dynamics-item6, .dynamics-item7 {
+                margin: 12px 0 21px;
+        }
+
+        .dynamics-ul {
+                justify-content: center;
+        }
+
+        .profession-title {
+                font-size: 17px;
+                line-height: 34px;
+        }
+
+        .icon2 {
+                font-size: 12px;
+        }
+
+        .icon3 {
+                font-size: 8px;
+        }
+
+        .icon-img1, .icon-img2, .icon-img3 {
+                margin-bottom: 10px;
+        }
+
+        .title-program {
+                font-size: 20px;
+        }
+
+        .icon-program {
+                margin-left: 105px;
+        }
+
+        .text-program {
+                margin-left: 0;
+        }
+
+        .timetable-description2 {
+                width: 103px;
+                margin-bottom: 31px;
+        }
+
+        .subscription-info {
+                margin-left: 0;
+        }
+}
+
+@media (max-width: 380px) {
+        .title {
+                width: 140px;
+                margin-top: 27px;
+                font-size: 15px;
+                line-height: 18px;
+        }
+
+        .activity-description {
+                margin-top: 17px;
+                margin-bottom: 82px;
+        }
+
+        .img-comp {
+                width: 150px;
+        }
+
+        .activity-img {
+                height: 152px;
+        }
+
+        .cours {
+                margin-bottom: 9px;
+        }
+
+        .number {
+                margin-bottom: 7px;
+        }
+
+        .title-partners {
+                font-size: 17px;
+                line-height: 29px;
+        }
+
+        .Subscribe {
+                left: 150px;
+        }
+
+        .e-mail {
+                width: 226px;
+        }
+
+        .subscription-title {
+                font-size: 18px;
+        }
+}
+
+@media (max-width: 330px) {
+        .line {
+                width: 130px;
+        }
+
+        .number4 {
+                padding-right: 147px;
+        }
+}
